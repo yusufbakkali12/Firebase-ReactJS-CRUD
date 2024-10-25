@@ -5,6 +5,7 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
+//what is that awd nas ??? :'(
 const firebaseConfig = {
   apiKey: "AIzaSyDlWqQNKeMxno2KpeliH5rgCc5VJgUcfOU",
   authDomain: "crud-react-2e455.firebaseapp.com",
